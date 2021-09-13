@@ -1,0 +1,32 @@
+com/jikkosoft/wappi/questions/TheMessageBirthDate.java
+ com.jikkosoft.wappi.questions.TheMessageBirthDate
+com/jikkosoft/wappi/userinterfaces/WappiMyOrders.java
+ com.jikkosoft.wappi.userinterfaces.WappiMyOrders
+com/jikkosoft/wappi/userinterfaces/WappiPersonalInformation.java
+ com.jikkosoft.wappi.userinterfaces.WappiPersonalInformation
+com/jikkosoft/wappi/tasks/PerformTheUpdateOfPersonalInformation.java
+ com.jikkosoft.wappi.tasks.PerformTheUpdateOfPersonalInformation
+com/jikkosoft/wappi/utils/SuitUrl.java
+ com.jikkosoft.wappi.utils.SuitUrl
+com/jikkosoft/wappi/utils/TheMessage.java
+ com.jikkosoft.wappi.utils.TheMessage
+com/jikkosoft/wappi/questions/TheMessageName.java
+ com.jikkosoft.wappi.questions.TheMessageName
+com/jikkosoft/wappi/userinterfaces/WappiLogin.java
+ com.jikkosoft.wappi.userinterfaces.WappiLogin
+com/jikkosoft/wappi/userinterfaces/WappiOrder.java
+ com.jikkosoft.wappi.userinterfaces.WappiOrder
+com/jikkosoft/wappi/tasks/Login.java
+ com.jikkosoft.wappi.tasks.Login
+com/jikkosoft/wappi/tasks/PerformAnOrder.java
+ com.jikkosoft.wappi.tasks.PerformAnOrder
+com/jikkosoft/wappi/questions/TheMessageCountry.java
+ com.jikkosoft.wappi.questions.TheMessageCountry
+com/jikkosoft/wappi/questions/TheMessageLastName.java
+ com.jikkosoft.wappi.questions.TheMessageLastName
+com/jikkosoft/wappi/questions/MyOrders.java
+ com.jikkosoft.wappi.questions.MyOrders
+com/jikkosoft/wappi/tasks/Go.java
+ com.jikkosoft.wappi.tasks.Go
+com/jikkosoft/wappi/utils/CleanString.java
+ com.jikkosoft.wappi.utils.CleanString

@@ -1,0 +1,4 @@
+
+n	java:S116"YRename this field "CHOOSE_COUNTRY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÈþÔ
+s
+java:S1450"]Remove the "CHOOSE_COUNTRY" field and declare it as a local variable in the relevant methods.(çÈþÔ

@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Order","Successful order","SUCCESS","2021-09-12T23:53:23.928-05:00[America/Bogota]","0.0","31.6"
+"Personal Information","try to update personal data without the name","SUCCESS","2021-09-12T23:54:18.955-05:00[America/Bogota]","0.0","33.76"
+"Personal Information","try to update personal data without the last name","SUCCESS","2021-09-12T23:54:53.571-05:00[America/Bogota]","0.0","76.05"
+"Personal Information","try to update personal data without the Birth","SUCCESS","2021-09-12T23:56:10.431-05:00[America/Bogota]","0.0","30.68"
+"Personal Information","try to update personal data without the country","SUCCESS","2021-09-12T23:56:41.903-05:00[America/Bogota]","0.0","30.99"
