@@ -20,7 +20,7 @@ Pedido, para la cuál se automatizó el siguiente escenario:
 
 ## Instalacion ##
 - Para clonar este repositorio localmente, se debe ejecutar el siguiente comando: 
-```git clone https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW1151001_AuthenticCB_Test``` 
+```git clone https://github.com/tchacos2128/TestWappi-.git
 - Importar el proyecto desde Eclipse o IntelliJ IDE bajo la estructura de un proyecto Gradle existente 
 
 ## Compilar El Proyecto ##
